@@ -1,0 +1,12 @@
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.deps.json
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.dll
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\bin\Debug\net8.0\Hospital.ViewModels.pdb
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.sourcelink.json
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.dll
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\refint\Hospital.ViewModels.dll
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\Hospital.ViewModels.pdb
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.ViewModels\obj\Debug\net8.0\ref\Hospital.ViewModels.dll

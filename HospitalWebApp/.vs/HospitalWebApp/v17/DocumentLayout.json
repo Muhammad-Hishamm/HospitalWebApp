@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFBF7A4-6608-4AE6-9A9B-A05B449B1A3E}|Hospital.Utilities\\Hospital.Utilities.csproj|c:\\users\\muham\\onedrive\\desktop\\projects\\hospitalwebapp\\hospitalwebapp\\hospital.utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFBF7A4-6608-4AE6-9A9B-A05B449B1A3E}|Hospital.Utilities\\Hospital.Utilities.csproj|solutionrelative:hospital.utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86D4674-59DD-4351-BAD4-F5D16778B4C9}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\muham\\onedrive\\desktop\\projects\\hospitalwebapp\\hospitalwebapp\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86D4674-59DD-4351-BAD4-F5D16778B4C9}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842028E-5A31-4A84-8593-D6C4814700F1}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\muham\\onedrive\\desktop\\projects\\hospitalwebapp\\hospitalwebapp\\hospital.models\\hospital.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B842028E-5A31-4A84-8593-D6C4814700F1}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\hospital.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B842028E-5A31-4A84-8593-D6C4814700F1}|Hospital.Models\\Hospital.Models.csproj|c:\\users\\muham\\onedrive\\desktop\\projects\\hospitalwebapp\\hospitalwebapp\\hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B842028E-5A31-4A84-8593-D6C4814700F1}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86D4674-59DD-4351-BAD4-F5D16778B4C9}|Hospital.Repositories\\Hospital.Repositories.csproj|c:\\users\\muham\\onedrive\\desktop\\projects\\hospitalwebapp\\hospitalwebapp\\hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E86D4674-59DD-4351-BAD4-F5D16778B4C9}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C084502-F2A6-4AC6-BF5B-F906D145C35F}|HospitalWebApp\\Hospital.Web.csproj|c:\\users\\muham\\onedrive\\desktop\\projects\\hospitalwebapp\\hospitalwebapp\\hospitalwebapp\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C084502-F2A6-4AC6-BF5B-F906D145C35F}|HospitalWebApp\\Hospital.Web.csproj|solutionrelative:hospitalwebapp\\hospital.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.Models",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Models\\Hospital.Models.csproj",
+              "RelativeDocumentMoniker": "Hospital.Models\\Hospital.Models.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Models\\Hospital.Models.csproj",
+              "RelativeToolTip": "Hospital.Models\\Hospital.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T21:29:09.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Hospital.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Hospital.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:27:10.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Utilities\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Hospital.Utilities\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Utilities\\DbInitializer.cs",
+              "RelativeToolTip": "Hospital.Utilities\\DbInitializer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:18:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:17:28.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\HospitalWebApp\\Hospital.Web.csproj",
+              "RelativeDocumentMoniker": "HospitalWebApp\\Hospital.Web.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\HospitalWebApp\\Hospital.Web.csproj",
+              "RelativeToolTip": "HospitalWebApp\\Hospital.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T16:06:46.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hospital.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\projects\\HospitalWebApp\\HospitalWebApp\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "RelativeToolTip": "Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T16:06:10.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.sourcelink.json
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Users\muham\OneDrive\Desktop\projects\HospitalWebApp\HospitalWebApp\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll
